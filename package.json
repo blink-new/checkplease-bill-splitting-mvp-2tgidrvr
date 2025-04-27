@@ -68,7 +68,8 @@
     "uuid": "latest",
     "@types/uuid": "latest",
     "react-dropzone": "latest",
-    "react-colorful": "latest"
+    "react-colorful": "latest",
+    "@supabase/auth-helpers-react": "latest"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
